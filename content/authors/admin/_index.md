@@ -1,52 +1,49 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Mayra Morataya
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Python Instructor
+role: Data Engineer / Software Developer
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Universidad de San Carlos de Guatemala
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Tengo mas de 10 años de experiencia en el desarrollo de aplicaciones. Actualmente estoy trabajando como Ingeniera de Datos.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Science
+  - Crear Contenido
+  - Voluntariados
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: MBA
+      institution: Universidad San Pablo de Guatemala
+      year: 2021
+    - course: Ingenieria en Ciencias y Sistemas
+      institution: Universidad de San Carlos de Guatemala
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
+  - icon: tiktok
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://tiktok.com/mayra_code
+  - icon: youtube
+    icon_pack: fab
+    link: https://youtube.com/maycode
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/mayracmg
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -60,4 +57,4 @@ user_groups:
   - Teachers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Tengo mas de 10 años de experiencia en el desarrollo de aplicaciones. Actualmente estoy trabajando como Ingeniera de Datos.
