@@ -3,7 +3,7 @@ widget: featurette
 headless: true
 weight: 20
 title: Contenido
-subtitle: ✨ Los cursos contienen:
+subtitle: ✨ Los cursos contienen
 feature:
   - icon: chalkboard-teacher
     icon_pack: fas
