@@ -1,20 +1,20 @@
 ---
-title: 📊 Learn Data Science
-linkTitle: Data Science
-summary: An example of using Wowchemy's Book layout for publishing online courses.
-date: '2021-01-24'
+title: 📊 Curso Básico de Python
+linkTitle: Curso Python
+summary: Introducción a la programación con el lenguaje Python
+date: '2023-04-10'
 type: book
 tags:
-  - current
+  - python
 ---
 
 {{< figure src="featured.jpg" >}}
 
 {{< toc hide_on="xl" >}}
 
-## What you will learn
+## Que aprenderás
 
-- Fundamental {{<hl>}}Python programming skills{{</hl>}}
+- Programación {{<hl>}}Básica con Python{{</hl>}}
 - {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
 - Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
 
