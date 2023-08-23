@@ -15,6 +15,6 @@ feature:
     description:
   - icon: code
     icon_pack: fas
-    name: Math & Code
+    name: Código
     description:
 ---
