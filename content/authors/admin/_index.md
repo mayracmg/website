@@ -16,12 +16,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Tengo mas de 10 años de experiencia en el desarrollo de aplicaciones. Actualmente estoy trabajando como Ingeniera de Datos.
 
-interests:
+Intereses:
   - Data Science
   - Crear Contenido
   - Voluntariados
 
-education:
+Educación:
   courses:
     - course: MBA
       institution: Universidad San Pablo de Guatemala
@@ -37,10 +37,10 @@ education:
 social:
   - icon: tiktok
     icon_pack: fab
-    link: https://tiktok.com/mayra_code
+    link: https://tiktok.com/@mayra_code
   - icon: youtube
     icon_pack: fab
-    link: https://youtube.com/maycode
+    link: https://youtube.com/@maycode
   - icon: github
     icon_pack: fab
     link: https://github.com/mayracmg
