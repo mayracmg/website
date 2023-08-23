@@ -7,7 +7,7 @@ subtitle: ✨ Los cursos contienen
 feature:
   - icon: chalkboard-teacher
     icon_pack: fas
-    name: Slides
+    name: Ejercicios
     description:
   - icon: video
     icon_pack: fas

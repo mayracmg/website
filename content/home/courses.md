@@ -7,7 +7,7 @@ subtitle:
 content:
   filters:
     folders:
-      - course
+      - cursos
     kinds:
       - section
     exclude_tags:
