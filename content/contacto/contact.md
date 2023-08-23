@@ -9,13 +9,13 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Contact
+title: Contacto
 subtitle:
 
 content:
   # Contact (edit or remove options as required)
-  email: test@example.org
-  appointment_url: 'https://calendly.com'
+  email: mayracmg@gmail.com
+  #appointment_url: 'https://calendly.com'
   contact_links:
     - icon: comments
       icon_pack: fas
