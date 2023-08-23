@@ -11,7 +11,7 @@ main:
     weight: 20
     identifier: cursos
   - name: Python
-    PageRef: curso/python/_index.md
+    PageRef: cursos/python/_index.md
     weight: 10
     parent: cursos
   - name: SQL
