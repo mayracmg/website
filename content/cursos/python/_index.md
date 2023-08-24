@@ -14,30 +14,31 @@ tags:
 
 ## Que aprenderás
 
-- Programación {{<hl>}}Básica con Python{{</hl>}}
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
+- {{<hl>}}Programación Básica{{</hl>}} con Python
+- {{<hl>}}Hola Mundo{{</hl>}}
+- Variables y Tipos de datos
+- Operadores
+- Ciclos
 
-## Program overview
+## Programa
 
-The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+Este curso esta diseñado para personas que no saben programar y desean aprender programación básica.
+El contenido de este curso es basado en el libro: THE PYTHON BIBLE 7 IN 1, FOR BEGINNERS. <br/>
+Podrás aprender qué es un Lenguaje de Programación, que es un IDE, que es una variable, etc.
 
-## Courses in this program
+
+## Contenido
 
 {{< list_children >}}
 
-## Meet your instructor
-
-{{< mention "admin" >}}
-
 ## FAQs
 
-{{< spoiler text="Are there prerequisites?" >}}
-There are no prerequisites for the first course.
+{{< spoiler text="¿Que debo saber antes de tomar este curso?" >}}
+Nada!!!. Podrás aprender desde cero.
 {{< /spoiler >}}
 
-{{< spoiler text="How often do the courses run?" >}}
-Continuously, at your own pace.
+{{< spoiler text="¿Cuanto tiempo debo dedicar al curso?" >}}
+El que tu necesites, vas a tu ritmo.
 {{< /spoiler >}}
 
-{{< cta cta_text="Begin the course" cta_link="python" >}}
+{{< cta cta_text="Empezar el curso" cta_link="python" >}}

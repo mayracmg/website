@@ -12,7 +12,7 @@ tags:
 
 {{< toc hide_on="xl" >}}
 
-## Que aprenderás?
+## Que aprenderás
 
 - Introducción a las bases de datos relaciones
 - Creación de queries DDL, DML, DCL
