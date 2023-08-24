@@ -1,36 +1,33 @@
 ---
-title: Visualization
-date: '2021-01-01'
+title: Lección 2: Variables y Tipos de Datos
+#date: '2021-01-01'
 type: book
 weight: 30
 highlight: true
 tags:
-  - Data Visualization
+  - python
 ---
 
-Learn how to visualize data with Plotly.
+Una variable sirve para guardar datos en la memoria de la computadora.
+Tiene un nombre simbólico. 
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 1-2 hours per week, for 8 weeks
+{{< icon name="clock" pack="fas" >}} 9 min video, 2 min lectura 
 
-## Learn
+## Lección
 
-{{< youtube hSPmj7mK6ng >}}
+{{< youtube lEKk9PuXZU0 >}}
 
-## Quiz
+## Tipos de Dato
+Cada variable puede tener un tipo de dato asociado.
+- Integer (int)
+- Float (float)
+- String (str)
+- Booleans (bool)
 
-{{< spoiler text="When is a heatmap useful?" >}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-{{< /spoiler >}}
+## Ejercicio
 
-{{< spoiler text="Write Plotly code to render a bar chart" >}}
-
-```python
-import plotly.express as px
-data_canada = px.data.gapminder().query("country == 'Canada'")
-fig = px.bar(data_canada, x='year', y='pop')
-fig.show()
-```
-
-{{< /spoiler >}}
+- Ejemplo: `harina = 3 #Variable: harina, Tipo de dato: int`
+`huevos = 6 #Variable: huevos, Tipo de dato: int`
+`leche = 1.5 #Variable: leche, Tipo de dato: float`

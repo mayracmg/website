@@ -24,7 +24,7 @@ El contenido de este curso esta diseñado para alguien que tiene cero o poco con
 El contenido del curso esta agrupado en 3 categorias, principiante, intermedio y avanzado.
 Introducción a las bases de datos relaciones, creación de queries DDL, DML, DCL. Funciones de agregación, Joins, Diagrama Entidad Relación, Subconsultas, Window Functions, Indices, Constraints, etc.
 
-## Secciones de este cursos
+## Lecciones
 
 {{< list_children >}}
 

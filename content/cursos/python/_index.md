@@ -27,7 +27,7 @@ El contenido de este curso es basado en el libro: THE PYTHON BIBLE 7 IN 1, FOR B
 Podrás aprender qué es un Lenguaje de Programación, que es un IDE, que es una variable, etc.
 
 
-## Contenido
+## Lecciones
 
 {{< list_children >}}
 

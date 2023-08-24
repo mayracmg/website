@@ -23,6 +23,3 @@ Un IDE online que puedes utilizar: Online-Python.com
 
 ## ¿Qué es Python?
 
-## Ejercicio
-
-- Ejemplo: `print("Hola, yo soy Mayra :)")`
