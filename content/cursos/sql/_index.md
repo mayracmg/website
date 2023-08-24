@@ -28,10 +28,6 @@ Introducción a las bases de datos relaciones, creación de queries DDL, DML, DC
 
 {{< list_children >}}
 
-## Sobre mí
-
-{{< mention "admin" >}}
-
 ## FAQs
 
 {{< spoiler text="¿Que debo saber antes de tomar este curso?" >}}
@@ -42,4 +38,4 @@ Nada!!! Aquí aprenderás todo lo necesario sobre SQL para bases de datos relaci
 El que tu necesites, vas a tu ritmo.
 {{< /spoiler >}}
 
-{{< cta cta_text="Empezar el curso" cta_link="python" >}}
+{{< cta cta_text="Empezar el curso" cta_link="sql" >}}

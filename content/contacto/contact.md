@@ -19,15 +19,15 @@ content:
   contact_links:
     - icon: tiktok
       icon_pack: fab
-      name: @mayra_code
+      name: mayra_code
       link: 'https://tiktok.com/@mayra_code'
     - icon: youtube
       icon_pack: fas
-      name: @maycode
+      name: maycode
       link: 'https://youtube.com/@maycode'
     - icon: instagram
       icon_pack: fas
-      name: @mayracmg
+      name: mayracmg
       link: 'https://www.instagram.com/mayracmg'
     - icon: comments
       icon_pack: fas

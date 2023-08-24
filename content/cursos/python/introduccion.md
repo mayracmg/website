@@ -18,6 +18,10 @@ Introducción.
 ## ¿Qué es un Lenguaje de Programación?
 
 ## ¿Qué es un IDE?
+Entorno de Desarrollo Integrado
+
+Un IDE online que puedes utilizar: Online-Python.com
+
 
 ## ¿Qué es Python?
 
