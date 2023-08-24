@@ -17,6 +17,18 @@ content:
   # email: mayracmg@gmail.com
   #appointment_url: 'https://calendly.com'
   contact_links:
+    - icon: tiktok
+      icon_pack: fab
+      name: @mayra_code
+      link: 'https://tiktok.com/@mayra_code'
+    - icon: youtube
+      icon_pack: fas
+      name: @maycode
+      link: 'https://youtube.com/@maycode'
+    - icon: instagram
+      icon_pack: fas
+      name: @mayracmg
+      link: 'https://www.instagram.com/mayracmg'
     - icon: comments
       icon_pack: fas
       name: Discuss on the forum
@@ -38,5 +50,5 @@ design:
   columns: '1'
 ---
 
-Puedes seguir mi contenido en YouTube, Instagram, LinkedIn o TikTok.
+Puedes seguir mi contenido en YouTube, Instagram, LinkedIn o TikTok.<br/>
 Si te gusta mi contenido te invito a que lo compartas con tus amigos.
