@@ -1,5 +1,5 @@
 ---
-title: Lección 1: Hola Mundo
+title: Lección 1&#58; Hola Mundo
 #date: '2021-01-01'
 type: book
 weight: 40
