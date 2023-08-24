@@ -1,5 +1,5 @@
 ---
-title: Lección 2&#58; Variables y Tipos de Datos
+title: Lección 2 - Variables y Tipos de Datos
 #date: '2021-01-01'
 type: book
 weight: 30
