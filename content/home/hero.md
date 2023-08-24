@@ -3,15 +3,15 @@ widget: hero
 headless: true
 weight: 10
 title: May Code
-hero_media: teacher.png
+hero_media: logocuadrado.png #teacher.png
 design:
   background:
     gradient_angle: 0
-    gradient_start: 'rgb(224,223,255)'
-    gradient_end: 'rgb(153,238,255)'
+    gradient_start: '#000'
+    gradient_end: '#fff'
     text_color_light: false
 cta:
-  url: '#courses'
+  url: '#cursos'
   label: Explorar Cursos
   icon_pack: fas
   icon: user-graduate
@@ -27,5 +27,6 @@ advanced:
 <br>
 
 Contenido gratuito sobre SQL y Python.
+Si te gusta mi contenido, compartelo.
 
 <a class="github-button" href="https://github.com/mayracmg" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star GitHub">Star GitHub</a><br><script async defer src="https://buttons.github.io/buttons.js"></script>

@@ -5,13 +5,11 @@ type: book
 weight: 20
 ---
 
-Introducción.
-
 <!--more-->
 
 {{< icon name="clock" pack="fas" >}} 4 min video, 2 min lectura 
 
-## Learn
+## Lección
 
 {{< youtube pucUw9wUd-8 >}}
 

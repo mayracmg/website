@@ -22,17 +22,21 @@ content:
       name: mayra_code
       link: 'https://tiktok.com/@mayra_code'
     - icon: youtube
-      icon_pack: fas
+      icon_pack: fab
       name: maycode
       link: 'https://youtube.com/@maycode'
     - icon: instagram
-      icon_pack: fas
+      icon_pack: fab
       name: mayracmg
       link: 'https://www.instagram.com/mayracmg'
-    - icon: comments
-      icon_pack: fas
-      name: Discuss on the forum
-      link: 'https://github.com/wowchemy/wowchemy-hugo-themes/discussions'
+    - icon: github
+      icon_pack: fab
+      name: mayracmg
+      link: 'https://github.com/mayracmg'
+  #  - icon: comments
+  #    icon_pack: fas
+  #    name: Discuss on the forum
+  #    link: 'https://github.com/wowchemy/wowchemy-hugo-themes/discussions'
 
   # Automatically link email and phone or display as text?
   autolink: true
